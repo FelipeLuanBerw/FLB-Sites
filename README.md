@@ -1,1 +1,1 @@
-Repositório contendo o front e o back do meu site... Link: felipeberwing.com
+Repositório contendo o front(React) e o back(Node.Js) do meu site... Para o deploy usei um servidor VPS da Hostinger. Para o Link: felipeberwing.com
